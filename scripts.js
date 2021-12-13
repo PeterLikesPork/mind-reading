@@ -24,7 +24,7 @@ var english = [
     'Add 8 to the new number.',
     'Divide that number by 2.',
     'Now, subtract that new number, with the first number (the chosen number from 1 to 10).',
-    'Then, convert that number to a letter as shown right (1 -> a, 2 -> b, 3 -> c, 4 -> d, 5 -> e, dst).',
+    'Then, convert that number to a letter as shown right (1 -> a, 2 -> b, 3 -> c, 4 -> d, 5 -> e, etc).',
     'Think of a country that starts with that letter.',
     'Take the second letter of that country, then think of an animal that starts with that letter, on english.',
     'I\'ll guess your animal after you\'re ready.',
